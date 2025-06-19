@@ -1,7 +1,7 @@
 # Project: Calculator with Exception Handling
 # Neha Rao
 
-# -------------TEST: SAVING ERRORS IN A LOG FILE --------------------------
+
 import logging   
 
 # Create a logger
